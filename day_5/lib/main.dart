@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Input Text'),
+          title: const Text('This is an Input Text Project'),
         ),
         body: Center(
           child: TextInputWidget(),
